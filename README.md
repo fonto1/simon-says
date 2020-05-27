@@ -15,5 +15,18 @@ Syftet med hackathonet var att lära sig utveckla i stora samtida grupper (mobb 
 
 
 
+
 ## mobb-utvecklat av WU19
-TODO: lägg till deltagare
+TODO: lägg till er i deltagar listan
+[Roman Matvichuk ](https://github.com/RomanMatvichuk)
+Stefan Gillsbro Carrillo
+Aslan Khadizov
+[Fon To ](https://github.com/fonto1)
+[Simon Jansson](SimonJCode)
+[Tero Viitala](https://github.com/treox)
+[Jimmy Johansson](https://github.com/Tallbacka)
+Vytautas Skergelza
+Iryna Sabo
+Nemanja Milosavljevic
+Aleksandra Sagitova
+Susanne Josefine Trygg
